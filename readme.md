@@ -22,7 +22,7 @@ Este es un proyecto de un blog básico desarrollado con el framework **Django**,
 git clone https://github.com/AndresUrango10/Blog_AJ_Django.git
 ```
 
-Navega al directorio del proyecto:
+Navega al directorio del repositorio:
 
  cd Blog_AJ_Django
 
@@ -77,9 +77,9 @@ Vuelve a la terminal en tu proyecto de Django y ejecuta:
 ```bash
     django-admin --version
 ```
- **accede al directorio del proyecto:**
- 
-cd MyBlogAj
+ **accede al directorio del proyecto principal:**
+
+cd MyBlogAJ
 
 7. **Realiza las migraciones**
 ```bash
