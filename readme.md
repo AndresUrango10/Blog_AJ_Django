@@ -77,8 +77,13 @@ Vuelve a la terminal en tu proyecto de Django y ejecuta:
 ```bash
     django-admin --version
 ```
+ **accede al directorio del proyecto:**
+ 
+cd MyBlogAj
+
 7. **Realiza las migraciones**
 ```bash
+    python manage.py makemigrations
     python manage.py migrate
 ```
 8. **Iniciar el servidor**
